@@ -21,3 +21,26 @@ blockquote {
     -webkit-box-shadow: 2px 2px 15px #ccc;
     box-shadow: 2px 2px 15px #ccc;*/
 }
+.blockquote_example {
+    display: block;
+    background: rgb(49, 46, 46);
+    padding: 15px;
+    margin: 0 0 20px;
+    position: relative;
+    border-radius: 25px solid #c76c0c;
+
+    /*Font*/
+    font-family: Georgia, serif;
+    font-size: 16px;
+    line-height: 1.2;
+    color: rgb(204, 184, 184);
+    text-align: justify;
+
+    /*Borders - (Optional)*/
+   
+    
+    /*Box Shadow - (Optional)
+    -moz-box-shadow: 2px 2px 15px #ccc;
+    -webkit-box-shadow: 2px 2px 15px #ccc;
+    box-shadow: 2px 2px 15px #ccc;*/
+}
